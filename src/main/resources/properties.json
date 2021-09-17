@@ -1,0 +1,7 @@
+{
+  "platformName": "android",
+  "platformVersion": "11.0",
+  "deviceName": "emulator-5556",
+  "appPackage": "com.imdb.mobile",
+  "appActivity": "HomeActivity"
+}

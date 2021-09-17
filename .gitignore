@@ -1,0 +1,24 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+Screenshots/
+data/~$data.xlsx
+
+#Allure
+allure-results/
+
+#Drivers
+chromedriver.exe
