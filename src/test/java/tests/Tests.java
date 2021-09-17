@@ -35,7 +35,7 @@ public class Tests extends TestDataProvider {
         searchPage.search(movie);
         MoviePage moviePage = searchPage.goToMovie();
 
-        Assert.assertEquals(moviePage.getOverviewText(),overview + "asd");
+        Assert.assertEquals(moviePage.getOverviewText(),overview);
         logger.info("validOverviewTextMovie finished ...");
     }
 
